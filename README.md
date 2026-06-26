@@ -9,4 +9,4 @@
 > O modelo deve apoiar na previsão de demanda para o aluguel de bikes através de regressão em dados temporais.
 
 
-O código está acessível para reprodução através do ambiente Google Colab no arquivo [MVP_Regression](./MVP_Regression.ipynb).
+O código e a documentação completa estão acessíveis através do ambiente Google Colab no arquivo [MVP_Regression](./MVP_Regression.ipynb).
